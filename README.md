@@ -17,5 +17,6 @@
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. 
-Como programador, busco constantemente soluções inovadoras e eficazes para atender às necessidades dos clientes e contribuir para o sucesso dos projetos.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+ 
+Como programador, busco constantemente soluções inovadoras e eficazes para atender às necessidades e contribuir para o sucesso dos projetos.
